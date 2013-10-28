@@ -18,5 +18,5 @@ http://cfmip.metoffice.com/cremr.png
 Improvements are seen in mainly in the radiative properties of optically thicker low and high topped cloud regimes rather than frequency of occurrence.[[http://rd.springer.com/article/10.1007/s00382-012-1609-4 Tsushima et al.,2012]]
 
 == References ==
-Williams KD, Webb MJ (2009) A quantitative performance assessment
-of cloud regimes in climate models. Clim Dyn 33(1):141–157
+  * Williams KD, Webb MJ (2009) A quantitative performance assessment of cloud regimes in climate models. Clim Dyn 33(1):141–157
+  * Tsushima Y, Ringer MA, Webb MJ, Williams KD (2012) Quantitative evaluation of the seasonal variations in climate model cloud regimes. Clim Dyn 41(9-10):2679-2696
