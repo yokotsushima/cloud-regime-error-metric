@@ -1,0 +1,2 @@
+This project provides code implementing cloud regime error metrics (CREM) based on Williams and Webb (2009) and Tsushima et al.(2012).See wiki for more information.
+Current implementation is in python, but equivalent codes in other languages are welcome. For more information, please contact the project owner.
